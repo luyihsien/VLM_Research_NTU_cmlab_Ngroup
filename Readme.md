@@ -1,3 +1,8 @@
+0719
+
+Moment Video Bench
+VirtueBench
+
 Q1 VLM如果錯了，能否用推理VLM reasoning知道現在的回覆錯了?或可能是錯的而重新修正?修正是否可以用Function calling介入?是否會提升
 
 Q2 能否用推裡舉一反三知道要怎麼處裡現在的問題或function calling (ex:無法正確辨識三頭肌在哪裡但知道二頭肌跟肩膀之間是三頭肌而標出三頭肌)
